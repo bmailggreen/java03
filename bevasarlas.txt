@@ -4,3 +4,4 @@
 4. zsebkendo
 5. kinai kaja
 6. kave
+7. tea
