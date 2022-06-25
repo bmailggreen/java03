@@ -5,4 +5,5 @@
 5. kinai kaja
 6. kave
 7. tea
-8. hangyairto
+8. szunyogirto
+9. hangyairto
